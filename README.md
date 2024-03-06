@@ -2,8 +2,7 @@
 
 
 ## Description
-This project is my personal implementation of the WhatsApp user interface, 
-crafted with HTML and enhanced using Tailwind CSS. It's more than just a clone; it's a testament to my frontend development journey.
+This project is a simple clone of the Instagram user interface, built using HTML, Tailwind CSS, and Vite. It provides a responsive and visually appealing representation of the popular social media platform.
 
 ## Features
 Responsive Design: The Instagram UI clone is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
